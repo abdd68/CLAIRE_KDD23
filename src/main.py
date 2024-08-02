@@ -1060,5 +1060,3 @@ if __name__ == '__main__':
     elif args.dataset == 'adult':
         path = '../dataset/adult.data'
         exp_real(path, exp_num=exp_num)
-
-
